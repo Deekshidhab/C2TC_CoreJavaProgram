@@ -1,6 +1,6 @@
 package abstractexample;
 
 public class PLTraining {
-	public void se
+	public void 
 
 }
